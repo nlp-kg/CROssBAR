@@ -1,4 +1,4 @@
-# CROssBAR: Comprehensive Resource of Biomedical Relations with Deep Learning Applications and Knowledge Graph Representations
+# CROssBAR: Comprehensive Resource of Biomedical Relations with Deep Learning Applications and Knowledge Graph Representations (Checkout - https://github.com/orgs/cansyl/repositories?type=all)
 
 The purpose of the CROssBAR project is to address the limitations related to data diversity and connectivity in biological data resources, which hamper their real-world applications to biomedical problems. Within CROssBAR, we developed a comprehensive computational resource by linking various biomedical resources, generating relation predictions using machine/deep learning, and developing information rich knowledge graphs that incorporate available and predicted biomedical relationships with the aim of providing aid to biomedical researchers to further understand disease mechanisms and to discover/develop new drugs. Detailed information can be obtained from [CROssBAR pre-print](https://www.biorxiv.org/content/10.1101/2020.09.14.296889v1).
 
